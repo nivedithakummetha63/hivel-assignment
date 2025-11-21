@@ -18,10 +18,10 @@ This program reads polynomial coefficients from a JSON file and prints the evalu
 4. Compile the Java source code:
 
 ```bash
-*javac polynomial.java
-*Run the program with the input JSON file and include Gson in the classpath:
+javac polynomial.java
 java -cp ".;lib/gson-2.10.1.jar" polynomial input1.json
 java -cp ".;lib/gson-2.10.1.jar" polynomial input2.json
+
 
 
 
