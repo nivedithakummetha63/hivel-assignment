@@ -1,6 +1,6 @@
 # Polynomial Evaluator
 
-This program reads polynomial coefficients from a JSON file and prints the evaluated results for x = 0 to 4.
+This program reads polynomial coefficients from a JSON file and prints the evaluated results 
 
 ## Files
 - `polynomial.java`
@@ -12,3 +12,4 @@ This program reads polynomial coefficients from a JSON file and prints the evalu
 ```bash
 javac polynomial.java
 java polynomial input1.json
+
