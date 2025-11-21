@@ -6,10 +6,12 @@ This program reads polynomial coefficients from a JSON file and prints the evalu
 - `polynomial.java`
 - `input1.json`
 - `input2.json`
-- `output.png` (program output screenshot)
+- # sample output 
+![executed screenshot](output..jpg.png)
 
 ## How to Run
 ```bash
 javac polynomial.java
 java polynomial input1.json
+
 
