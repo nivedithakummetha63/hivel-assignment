@@ -1,9 +1,10 @@
 # Polynomial Evaluator
 
-This program reads polynomial coefficients from a JSON file and prints the evaluated results 
+This program reads polynomial coefficients from a JSON file and prints the evaluated results .
 
 ## Files
 - `polynomial.java`
+![program file](polynomial.java)
 - `input1.json`
 - `input2.json`
 - # sample output 
@@ -21,6 +22,7 @@ This program reads polynomial coefficients from a JSON file and prints the evalu
 javac polynomial.java
 java -cp ".;lib/gson-2.10.1.jar" polynomial input1.json
 java -cp ".;lib/gson-2.10.1.jar" polynomial input2.json
+
 
 
 
